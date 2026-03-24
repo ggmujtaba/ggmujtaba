@@ -109,12 +109,7 @@ AI/ML Engineer focused on autonomous driving and perception systems
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=00FFD4&center=true&vCenter=true&width=600&lines=Building+the+future+of+Mobility+@+SEA%3AME;Bachelor+Professional+in+AI+%26+Machine+Learning;Specialized+in+Computer+Vision+%26+Autonomous+Systems;Star+my+repos+if+you+find+them+useful!" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=00FFD4&center=true&vCenter=true&width=600&lines=🚗+Building+the+future+of+Mobility+@+SEA%3AME;👨🏻‍🎓+Bachelor+Professional+in+AI+%26+Machine+Learning;👨🏻‍💻+Specialized+in+Computer+Vision+%26+Autonomous+Systems;⭐️+Star+my+repos+if+you+find+them+useful!" alt="Footer Typing" />
 </p>
-
 </div>
-
-
-
-
 
