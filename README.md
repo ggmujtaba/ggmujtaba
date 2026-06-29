@@ -1,117 +1,128 @@
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Ghulam%20Mujtaba&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Autonomous%20Driving&descAlignY=58&descSize=17&descColor=a0d8ff&stroke=ffffff&strokeWidth=2" alt="Header" /> 
+```markdown
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Ghulam%20Mujtaba&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%2042%20Wolfsburg%20Cadet%20%7C%20Generative%20AI%20%7C%20Machine%20Learning%20%7C%20MLOps&descAlignY=58&descSize=17&descColor=a0d8ff&stroke=ffffff&strokeWidth=2" alt="Header"/>
 </p>
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00FFD4&center=true&vCenter=true&width=800&lines=Bachelor+Professional+in+AI+%26+ML;Autonomous+Driving+Systems+@+SEA%3AME;Computer+Vision+%26+Machine+Learning+Engineer;Build+→+Test+→+Iterate" alt="Typing SVG" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00FFD4&center=true&vCenter=true&width=900&lines=AI+Engineer+building+real-world+AI+systems;42+Wolfsburg+Cadet;Generative+AI+%E2%80%A2+Machine+Learning+%E2%80%A2+MLOps;Transforming+ideas+into+intelligent+products;Build+%E2%86%92+Deploy+%E2%86%92+Iterate" alt="Typing SVG"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-</p>
+## 👨‍💻 About Me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+Hi, I'm **Ghulam**, an AI Engineer passionate about building intelligent systems that solve real-world problems.
 
-<p align="center">
+- 🤖 Focused on **Machine Learning, Generative AI and MLOps**
+- 🚀 Building **production-ready AI applications**
+- 🎓 AI & ML graduate and **42 Wolfsburg Student**
+- 🧠 Interested in **LLMs, RAG, Agentic AI and scalable AI systems**
+- 🔬 Strong believer in rapid experimentation and continuous improvement
 
-AI/ML Engineer focused on autonomous driving and perception systems  
+### Current Focus
 
-- Building computer vision pipelines for real-world mobility scenarios  
-- Working on autonomous driving projects @ <a href="https://seame.space/" target="_blank"><strong>SEA:ME Wolfsburg</strong></a>  
-- Strong focus on deployable AI, not just theoretical models  
-- Approach: Build → Test → Iterate  
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+- MLOps & AI Deployment
+- AI Product Development
 
-</p>
+> **Build → Experiment → Deploy → Improve**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ghulammjtba/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.kaggle.com/ggmujtaba">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://huggingface.co/iam-ghulam">
-    <img src="https://img.shields.io/badge/HuggingFace-orange?style=for-the-badge&logo=huggingface&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5dXp6Z3Z0Z3V6Z3Z0Z3V6Z3Z0Z3V6Z3ZiZSZjdD1n/3o7TKSjPWH7ve44oLe/giphy.gif" width="30"> Tech Stack
+## 🛠 Tech Stack
 
-**Programming Languages**  
-<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFE873"/>
+### Languages
 
-**ML / AI / Data Science**  
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-
-**Tools / DevOps**  
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-
----
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5dXp6Z3Z0Z3V6Z3Z0Z3V6Z3Z0Z3V6Z3Z0Z3V6Z3ZiZSZjdD1n/26n6WywWSTH9V8NHO/giphy.gif" width="30"> Current Focus
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FFD4&center=true&vCenter=true&width=700&lines=Learning+Computer+Vision+Pipelines;Building+Object+Detection+Models;Working+with+ROS+and+CARLA;Experimenting+with+Deep+Learning" />
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFE873"/>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
 </p>
 
-- Learning computer vision pipelines for real-world scenarios  
-- Building and testing object detection models  
-- Exploring ROS & autonomous system architecture  
-- Hands-on simulation work with CARLA  
----
+### AI / Machine Learning
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Learning Roadmap
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+  <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge"/>
+</p>
 
-| Skill / Technology        | Progress |
-|---------------------------|:--------:|
-| Python / NumPy / Pandas    | ██████████ 100% |
-| PyTorch / TensorFlow       | ████████░ 80% |
-| Computer Vision (OpenCV)   | ███████░░ 70% |
-| ROS & Autonomous Systems   | ██████░░░ 60% |
-| CARLA Simulation           | ██████░░░ 60% |
-| Deep Learning Theory       | ███████░░ 70% |
+### Generative AI
 
----
+<p>
+  <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_Databases-0D1117?style=for-the-badge"/>
+</p>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRmdndueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueCZjdD1n/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Experiments & Projects
+### MLOps & Deployment
 
-> Engineering intelligent systems for autonomous mobility @ <a href="https://seame.space/" target="_blank"><strong>SEA:ME Wolfsburg</strong></a>
+<p>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+</p>
 
-- Developed core machine learning pipelines (regression, classification) using Scikit-learn  
-- Built computer vision workflows: image preprocessing and feature extraction for perception tasks  
-- Simulated and validated perception systems in CARLA environments  
-- Trained and deployed real-time object detection models (YOLO, PyTorch, OpenCV)
+### Cloud & Tools
 
----
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRmdndueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueCZjdD1n/l41lTfO6pYyXoT3dS/giphy.gif" width="30"> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ggmujtaba&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=00FFD4" />
+<p>
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
 </p>
 
 ---
 
-<!-- ░░ FOOTER BANNER ░░ -->
-<div align="center">
+## 🚀 Areas of Interest
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn&fontColor=ffffff"/>
+- 🤖 Generative AI Applications
+- 🧠 Machine Learning Solutions
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚙️ MLOps & AI Deployment
+- 📊 Data Science & Analytics
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=00FFD4&center=true&vCenter=true&width=600&lines=🚗+Building+the+future+of+Mobility+@+SEA:ME;🎓+Bachelor+Professional+in+AI+%26+Machine+Learning;💻+Specialized+in+Computer+Vision+%26+Autonomous+Systems;⭐+Star+my+repos+if+you+find+them+useful!" alt="Footer Typing" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-</div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building intelligent systems that create real-world impact."</i>
+</p>
+```
