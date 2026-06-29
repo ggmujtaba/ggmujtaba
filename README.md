@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Ghulam%20Mujtaba&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%2042%20Wolfsburg%20Cadet%20%7C%20Generative%20AI%20%7C%20Machine%20Learning%20%7C%20MLOps&descAlignY=58&descSize=17&descColor=a0d8ff&stroke=ffffff&strokeWidth=2" alt="Header"/>
 </p>
